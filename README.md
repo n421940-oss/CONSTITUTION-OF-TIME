@@ -51,5 +51,5 @@ The architecture consists of decoupled, production-ready modules operating as an
 ├── TimeActor.py                  # Output directing and pattern-matching forbidden phrase suppressor
 ├── TemporalIntegrityOfficer.py   # Full-spectrum immune system orchestrator and supervisor
 ├── time_sync.py                  # Low-level hardware clock abstraction layer
-├── QUANTUM TIME SYNC20260615.py  # End-to-End consolidated execution script
-└── QUANTUM TIME SYNC20260615 — копия.py
+├── QUANTUM TIME SYNC.py  # End-to-End consolidated execution script
+└── QUANTUM TIME SYNCV1.py
