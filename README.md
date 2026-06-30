@@ -1,5 +1,5 @@
 # CONSTITUTION-OF-TIME
-Quantum Time Sync: Temporal Synchronization Architecture for Local LLMs  Quantum Time Sync —
+Quantum Time Sync: Temporal Synchronization Architecture for Local LLMs . Quantum Time Sync —
 Synchronizes the agent with system time (T=0)
 Injects time anchors into the context (autoinjection)
 Corrects "hallucinations" through a role model (Stanislavsky's method)
